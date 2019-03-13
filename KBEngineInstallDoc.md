@@ -103,7 +103,7 @@ ComblockEngine的环境安装非常简单，只需要完成MySql的安装和配�
 Linux系统下，安装Mysql比较简单，只需执行几个命令即可。
 ```
 安装
-[root @ localhost ~]# yum install mysql-server (在Ubuntu类系统上, 使用 apt-get install mysql-server)
+[root @ localhost ~]# yum install -y mysql-server (在Ubuntu类系统上, 使用 apt-get install mysql-server)
 
 设定为开机自动启动
 [root @ localhost ~]# chkconfig mysqld on(在Ubuntu类系统上, 安装 sysv-rc-conf)
@@ -233,3 +233,10 @@ root权限设置用户kbe的uid(假如设置为10103):
 [kbe @gameserver ~]$ sh kill_server.sh
 ```
 
+**注意**
+启动时如果同一局域网下有另一台服务器运行默认生成的资源，则会产生如下error
+```
+Can modify the components-CID and UID to avoid conflict.
+```
+
+此时可以停掉另一台服务器的server assets，或者修改UID
