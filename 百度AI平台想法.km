@@ -1,0 +1,716 @@
+{
+    "root": {
+        "data": {
+            "id": "bsswlh0mrj40",
+            "created": 1553146815581,
+            "text": "百度AI平台想法"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bsswlr06kkw0",
+                    "created": 1553146837322,
+                    "text": "语音技术",
+                    "expandState": "collapse",
+                    "usecase": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bsswmfbn8480",
+                            "created": 1553146890257,
+                            "text": "语音识别",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bsswmz5o0ug0",
+                                    "created": 1553146933432,
+                                    "text": "远场语音识别",
+                                    "usecase": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bsswmubkaw80",
+                                    "created": 1553146922904,
+                                    "text": "语音识别"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bsswmvzrla80",
+                                    "created": 1553146926544,
+                                    "text": "长语音识别"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bsswmgzys680",
+                            "created": 1553146893905,
+                            "text": "语音合成"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bsswmj2ggkg0",
+                            "created": 1553146898409,
+                            "text": "语音唤醒"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bsswmnfcldk0",
+                            "created": 1553146907896,
+                            "text": "智能呼叫中心"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bsswn6k4yw00",
+                                    "created": 1553146949544,
+                                    "text": "实时语音识别"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bsswn97iz080",
+                                    "created": 1553146955312,
+                                    "text": "音频文件转写"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bsswltago680",
+                    "created": 1553146842297,
+                    "text": "图像技术",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bsswo7ff4js0",
+                            "created": 1553147029800,
+                            "text": "文字识别"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bsswo9b54q80",
+                                    "created": 1553147033895,
+                                    "text": "通用文字识别"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bsswofajxf40",
+                                    "created": 1553147046920,
+                                    "text": "网络图片识别"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx3d13hio0",
+                                    "created": 1553148217457,
+                                    "text": "身份证、银行卡，驾驶证"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx3hf7wgw0",
+                                    "created": 1553148227018,
+                                    "text": "名片票据"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx3mpl9mw0",
+                                    "created": 1553148238529,
+                                    "text": "表格文字"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bssx3si3j7c0",
+                            "created": 1553148251137,
+                            "text": "图像识别"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssx3uxm1200",
+                                    "created": 1553148256428,
+                                    "text": "通用图像分析"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx3zv4g2o0",
+                                    "created": 1553148267162,
+                                    "text": "品牌logo"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx438tpg80",
+                                    "created": 1553148274520,
+                                    "text": "动物植物"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx44tv2540",
+                                    "created": 1553148277969,
+                                    "text": "菜"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bssxg6l7q8g0",
+                                            "created": 1553149222170,
+                                            "text": "可以识别热量",
+                                            "usecase": 1
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx49jumgo0",
+                                    "created": 1553148288248,
+                                    "text": "地标"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bssx4bwjlw00",
+                            "created": 1553148293369,
+                            "text": "车辆分析"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssx4fa9etk0",
+                            "created": 1553148300729,
+                            "text": "图像审核"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssx4s379c80",
+                            "created": 1553148328600,
+                            "text": "图像处理"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssx4uombv40",
+                            "created": 1553148334249,
+                            "text": "图像搜索"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bssxixo16200",
+                    "created": 1553149437842,
+                    "text": "视频技术",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bssxj0l7s2w0",
+                            "created": 1553149444202,
+                            "text": "内容分析"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxjg7sei80",
+                            "created": 1553149478218,
+                            "text": "封面选取"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxjk2krmg0",
+                            "created": 1553149486610,
+                            "text": "检索"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxjma0u1s0",
+                            "created": 1553149491414,
+                            "text": "审核"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bssxshif7hc0",
+                    "created": 1553150186316,
+                    "text": "知识图谱"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bsswo585okg0",
+                    "created": 1553147025008,
+                    "text": "人脸识别",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bssx5my2b200",
+                            "created": 1553148395770,
+                            "text": "人脸识别"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssx5ofdeps0",
+                                    "created": 1553148398993,
+                                    "text": "检测"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bssxdes6gww0",
+                                            "created": 1553149004913,
+                                            "text": "有坐标",
+                                            "usecase": 1
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bst1acauh140",
+                                                    "created": 1553160048858,
+                                                    "text": "Face Dance Challenge",
+                                                    "usecase": 2
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bst1dp1h1o80",
+                                                    "created": 1553160311682,
+                                                    "text": "节奏类游戏",
+                                                    "usecase": 2
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx5qaurjk0",
+                                    "created": 1553148403073,
+                                    "text": "对比"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx5t8ykf40",
+                                    "created": 1553148409489,
+                                    "text": "搜索"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx5xbz35s0",
+                                    "created": 1553148418379,
+                                    "text": "采集"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bssx697zoe00",
+                            "created": 1553148444259,
+                            "text": "人体分析"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssx6b4rvl40",
+                                    "created": 1553148448418,
+                                    "text": "关键点识别"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bssxaptfpzs0",
+                                            "created": 1553148793841,
+                                            "text": "有坐标信息，支持多人识别，无深度",
+                                            "usecase": 1,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bst1in7ml2o0",
+                                                    "created": 1553160699522,
+                                                    "text": "体感滑雪",
+                                                    "usecase": 2
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx6da1b7c0",
+                                    "created": 1553148453090,
+                                    "text": "流量统计"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx6gpq7vk0",
+                                    "created": 1553148460569,
+                                    "text": "手势"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bssx9nwzrxc0",
+                                            "created": 1553148711338,
+                                            "text": "单纯识别姿势，没有坐标信息",
+                                            "usecase": 1
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bst1ksnl4o00",
+                                                    "created": 1553160868099,
+                                                    "text": "手势射箭",
+                                                    "usecase": 2
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx6jr58go0",
+                                    "created": 1553148467185,
+                                    "text": "人像分割"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bssx9ygu9wg0",
+                                            "created": 1553148734306,
+                                            "text": "人与背景分割"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssx6nfm4io0",
+                                    "created": 1553148475195,
+                                    "text": "驾驶行为分析"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bssxs7t58ao0",
+                    "created": 1553150165196,
+                    "text": "AR/VR",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bssxupvsvmg0",
+                            "created": 1553150361267,
+                            "text": "图像识别跟踪"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxuubr5zs0",
+                            "created": 1553150370939,
+                            "text": "单目slam"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxuxpva8w0",
+                            "created": 1553150378323,
+                            "text": "人脸互动"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxv0b4x7k0",
+                            "created": 1553150383962,
+                            "text": "肢体互动"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssxv2ubo7s0",
+                            "created": 1553150389476,
+                            "text": "互动引擎"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssxw5eb2o00",
+                                    "created": 1553150473402,
+                                    "text": "其实就是常用交互手势"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bssxsaqjve00",
+                    "created": 1553150171570,
+                    "text": "自然语言处理",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bssxwrneods0",
+                            "created": 1553150521842,
+                            "text": "基础技术"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssxxfq0f940",
+                                    "created": 1553150574242,
+                                    "text": "词法句法"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssxxl8hceg0",
+                                    "created": 1553150586243,
+                                    "text": "情感倾向分析",
+                                    "usecase": 1
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bst1nypjyag0",
+                                            "created": 1553161116371,
+                                            "text": "聊天软件",
+                                            "usecase": 2
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bst1o0wa4bs0",
+                                            "created": 1553161121131,
+                                            "text": "日记软件",
+                                            "usecase": 2
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bst1o2nmtuo0",
+                                            "created": 1553161124962,
+                                            "text": "聊天游戏",
+                                            "usecase": 2
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "bssxwv6v0yo0",
+                                    "created": 1553150529548,
+                                    "text": "情绪识别",
+                                    "layout_left_offset": {
+                                        "x": 4.999999925494194,
+                                        "y": 7.499999888241234
+                                    },
+                                    "usecase": 1
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bssy4x20w9s0",
+                            "created": 1553151160523,
+                            "text": "文本审核"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssy4zbsedk0",
+                            "created": 1553151165467,
+                            "text": "机器翻译"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bssy512icx40",
+                                    "created": 1553151169259,
+                                    "text": "通用"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssy53lod9c0",
+                                    "created": 1553151174772,
+                                    "text": "语音"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bssy54ln9dc0",
+                                    "created": 1553151176947,
+                                    "text": "拍照"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bssy571i0hk0",
+                            "created": 1553151182259,
+                            "text": "智能写作"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bssxsdxe3ao0",
+                    "created": 1553150178514,
+                    "text": "数据智能",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bssy63wyync0",
+                            "created": 1553151253819,
+                            "text": "大数据"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssy656rmvk0",
+                            "created": 1553151256588,
+                            "text": "统计"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssy67aoi2g0",
+                            "created": 1553151261178,
+                            "text": "智能推荐"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssy6x52o000",
+                            "created": 1553151317435,
+                            "text": "舆情"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bssy6zvd8kg0",
+                            "created": 1553151323380,
+                            "text": "风控"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43",
+    "id": "bsswlh0mrj40"
+}
