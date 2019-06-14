@@ -59,7 +59,20 @@
 
 通过点击prepare for publishing即可出现publish to steam，然后输入steamworks即可完成发布，此时就可以进自己的库中查看（不一定，可能还是得上传后才行）
 
-## 4. 打包及上传
+## 4. 打包及DRM
+
+删除工程内（包括项目根目录）的两个steam_appid.txt文件后即可按unity正常流程打包。下面对DRM流程进行说明。
+
+![DRM](image/DRM.png)
+
+1. 进入DRM标签页
+2. 点击选择文件，选择unity打包后生成的.exe文件
+3. 点击upload
+4. upload完成后，点击新出现的module，点击即可下载
+5. 将下载好的文件拷贝回原先.exe文件处
+6. 删除原先的.exe文件，并将所下载文件的名称改为原.exe文件名
+
+## 5. 上传
 
 打包需要用到Steamworks SDK v1.44，登录下载后进行解压，首先进入目录\steamworks_sdk_144\sdk\tools\ContentBuilder，之后所有步骤都会在该文件夹及其子文件夹进行
 
